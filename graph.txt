@@ -1,0 +1,5 @@
+1==========2#@3----@@----Integer.MAX_VALUE----@@----White----@@----Nil
+2==========1#@3#@4#@5----@@----Integer.MAX_VALUE----@@----White----@@----Nil
+3==========1#@4#@2----@@----Integer.MAX_VALUE----@@----White----@@----Nil
+4==========2#@3----@@----Integer.MAX_VALUE----@@----White----@@----Nil
+5==========2----@@----Integer.MAX_VALUE----@@----White----@@----Nil
